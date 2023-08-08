@@ -1,0 +1,27 @@
+.sycCommentsWrapper {
+  height: 90vh; 
+  margin-bottom: 16px;
+  overflow-y: scroll;
+}
+
+.sycCommentsWrapper::-webkit-scrollbar {
+  width: 5px;
+}
+
+.sycCommentsWrapper::-webkit-scrollbar-track {
+  background: #eee;
+  border-radius: 5px;
+}
+
+.sycCommentsWrapper::-webkit-scrollbar-thumb {
+  background: #999;
+  border-radius: 5px;
+}
+
+.sycCommentsWrapper::-webkit-scrollbar-thumb:hover {
+  background: #888;
+}
+
+.sycCommentsWrapper::-webkit-scrollbar-thumb:active {
+  background: #777;
+}
