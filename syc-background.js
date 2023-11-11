@@ -1,9 +1,9 @@
 let stop = true,
     commentsScrollIsEnabled = false
 
-const enableIconPath = "icons/syc-enable.png",
-      disableIconPath = "icons/syc-disable.png",
-      defaultIconPath = "icons/syc-default.png",
+const enableIconPath = "icons/enable.png",
+      disableIconPath = "icons/disable.png",
+      defaultIconPath = "icons/default.png",
       setIcon = (path) => chrome.action.setIcon({ path })
 
 const enableCommentsScrollTitle = "Enable comments scroll",
