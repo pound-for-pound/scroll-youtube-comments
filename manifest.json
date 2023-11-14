@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Scroll Youtube Comments",
   "description": "Scroll YouTube comments and watch video simultaneously!",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "icons": {
     "16": "icons/default.png",
     "32": "icons/default.png",
